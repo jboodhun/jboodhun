@@ -1,5 +1,7 @@
 ## Hi, I'm Jay 👋
 
+Lead Frontend Engineer specialising in scalable SaaS platforms, React architecture, developer experience, and AI-assisted product delivery.
+
 <!--
 **jboodhun/jboodhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
