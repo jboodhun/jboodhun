@@ -19,7 +19,7 @@ Lead Frontend Engineer specialising in scalable SaaS platforms, React architectu
 
 ## Things I care about
  
-- **Component design** — writing components that are a pleasure to use and extend, not just ones that work
-- **Design systems** — the structure that lets teams move fast without breaking consistency
-- **Developer experience** — good tooling, clear conventions, fast feedback loops
-- **UX detail** — the micro-interactions and edge cases that most people only notice when they're missing
+- **Component design**: writing components that are a pleasure to use and extend, not just ones that work
+- **Design systems**: the structure that lets teams move fast without breaking consistency
+- **Developer experience**: good tooling, clear conventions, fast feedback loops
+- **UX detail**: the micro-interactions and edge cases that most people only notice when they're missing
