@@ -23,3 +23,14 @@ Lead Frontend Engineer specialising in scalable SaaS platforms, React architectu
 - **Design systems**: the structure that lets teams move fast without breaking consistency
 - **Developer experience**: good tooling, clear conventions, fast feedback loops
 - **UX detail**: the micro-interactions and edge cases that most people only notice when they're missing
+
+## 👨🏽‍💻 What I'm building
+
+📈 **Trading Journal**
+A personal app to track, filter, and analyse trading performance. 
+Built with React, Express, and SQLite. 
+Designed with a clean component-first approach using ShadCN and Tailwind.
+
+→ [View repo](https://github.com/jboodhun/trading-journal) · [View project board →](https://github.com/users/jboodhun/projects/1)
+
+
