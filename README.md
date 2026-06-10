@@ -10,3 +10,16 @@ Lead Frontend Engineer specialising in scalable SaaS platforms, React architectu
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**UI & Styling**
+ 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## Things I care about
+ 
+- **Component design** — writing components that are a pleasure to use and extend, not just ones that work
+- **Design systems** — the structure that lets teams move fast without breaking consistency
+- **Developer experience** — good tooling, clear conventions, fast feedback loops
+- **UX detail** — the micro-interactions and edge cases that most people only notice when they're missing
