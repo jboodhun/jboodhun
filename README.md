@@ -27,6 +27,7 @@ Lead Frontend Engineer specialising in scalable SaaS platforms, React architectu
 ## 👨🏽‍💻 What I'm building
 
 📈 **Trading Journal**
+
 A personal app to track, filter, and analyse trading performance. 
 Built with React, Express, and SQLite. 
 Designed with a clean component-first approach using ShadCN and Tailwind.
